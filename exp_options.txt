@@ -1,4 +1,6 @@
-schemas=easytaxpayer
+schemas=easytaxpayer,ore,sms
 dumpfile=db_schemas.dmp
 logfile=db_schema.log
 directory=db_schema_dir
+reuse_dumpfiles=Y
+content=META_DATA_ONLY
