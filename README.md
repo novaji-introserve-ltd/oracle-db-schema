@@ -1,3 +1,3 @@
-Oracle DB Schema Reository
+Oracle DB Schema Repository
 ==========================
 Repository for production database schemas
