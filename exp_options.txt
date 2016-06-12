@@ -1,0 +1,4 @@
+schemas=easytaxpayer
+dumpfile=db_schemas.dmp
+logfile=db_schema.log
+directory=db_schema_dir
