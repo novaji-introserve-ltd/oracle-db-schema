@@ -1,5 +1,5 @@
 ;;; 
-Export: Release 11.2.0.2.0 - Production on Mon Jul 4 00:01:20 2016
+Export: Release 11.2.0.2.0 - Production on Tue Jul 5 00:01:24 2016
 
 Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
 ;;; 
@@ -10,6 +10,7 @@ Processing object type SCHEMA_EXPORT/SYSTEM_GRANT
 Processing object type SCHEMA_EXPORT/DEFAULT_ROLE
 Processing object type SCHEMA_EXPORT/TABLESPACE_QUOTA
 Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Processing object type SCHEMA_EXPORT/SYNONYM/SYNONYM
 Processing object type SCHEMA_EXPORT/SEQUENCE/SEQUENCE
 Processing object type SCHEMA_EXPORT/TABLE/TABLE
 Processing object type SCHEMA_EXPORT/TABLE/INDEX/INDEX
@@ -26,4 +27,4 @@ Master table "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
 ******************************************************************************
 Dump file set for DPUMP.SYS_EXPORT_SCHEMA_01 is:
   /disk2/oracle/db_schema/reagovat.dmp
-Job "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully completed at 00:01:38
+Job "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully completed at 00:01:42
