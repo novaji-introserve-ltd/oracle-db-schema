@@ -1,5 +1,5 @@
 ;;; 
-Export: Release 11.2.0.2.0 - Production on Thu Jul 7 00:00:03 2016
+Export: Release 11.2.0.2.0 - Production on Fri Jul 8 00:00:04 2016
 
 Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
 ;;; 
@@ -18,6 +18,7 @@ Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
 Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
 Processing object type SCHEMA_EXPORT/PACKAGE/PACKAGE_SPEC
 Processing object type SCHEMA_EXPORT/PACKAGE/COMPILE_PACKAGE/PACKAGE_SPEC/ALTER_PACKAGE_SPEC
+Processing object type SCHEMA_EXPORT/VIEW/VIEW
 Processing object type SCHEMA_EXPORT/PACKAGE/PACKAGE_BODY
 Processing object type SCHEMA_EXPORT/TABLE/TRIGGER
 Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
