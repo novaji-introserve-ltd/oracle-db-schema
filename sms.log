@@ -1,5 +1,5 @@
 ;;; 
-Export: Release 11.2.0.2.0 - Production on Fri Jul 8 00:01:37 2016
+Export: Release 11.2.0.2.0 - Production on Sat Jul 9 00:01:40 2016
 
 Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
 ;;; 
@@ -27,4 +27,4 @@ Master table "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
 ******************************************************************************
 Dump file set for DPUMP.SYS_EXPORT_SCHEMA_01 is:
   /disk2/oracle/db_schema/sms.dmp
-Job "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully completed at 00:01:57
+Job "DPUMP"."SYS_EXPORT_SCHEMA_01" successfully completed at 00:02:03
